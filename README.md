@@ -42,8 +42,8 @@ docker exec -it dind-container sh -c "cat /app/Docker-Benchmark/Go/output.txt"
 
 ## Authors
 
-- [@jesus2801](https://github.com/jesus2801)
-- [@angelicampp](https://github.com/angelicampp)
+- [@jesus2801](https://github.com/jesus2801) Jesús David García Vargas
+- [@angelicampp](https://github.com/angelicampp) Angélica Michelle Pupo Pallares
 
 ## License
 
